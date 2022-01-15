@@ -30,16 +30,6 @@ https://proxypool.fly.dev/
 
 http://8.135.91.61/
 
-https://proxy.51798.xyz/
-
-https://sspool.herokuapp.com/
-
-https://us-proxypool.herokuapp.com/
-
-https://eu-proxypool.herokuapp.com/
-
-http://www.fuckgfw.tk/
-
 https://etproxypool.ga/
 
 https://free.kingfu.cf/
